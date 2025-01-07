@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on projects related to WEB3
 - 🤔 I’m looking for help with Blockchain Core Development
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikhuzaifa434/)
 - ⚡ Fun fact: I love Chess 
 
 ## GitHub Stats
@@ -22,4 +21,4 @@
 
 ## Recent Blog Posts
 
-- [Blog Post 1](https://medium.com/@malikhuzaifa043/minting-nft-on-cardano-without-installing-cardano-node-and-cardano-cli-on-your-pc-05b9224826db)
+- [It's about How to Mint an NFT using Cardano-CLI](https://medium.com/@malikhuzaifa043/minting-nft-on-cardano-without-installing-cardano-node-and-cardano-cli-on-your-pc-05b9224826db)
