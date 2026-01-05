@@ -16,8 +16,7 @@
   - Service businesses
   - Founders scaling operations
 > rule        : If it's repetitive — automate it.
-
-
+```
 
 🎯 What I deliver:
 - End-to-end n8n automations
