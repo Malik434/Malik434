@@ -1,22 +1,22 @@
 🧠 Malik - Automation Engineer | n8n Specialist | Web3 Builder
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=I+Automate+What+Others+Repeat;n8n+%7C+Backend+%7C+AI+Workflows;Web3+%7C+Solidity+Learner;Systems+Over+Manual+Work" /> </p>
-⚡ Who Am I
-const malik = {
-  title: "Automation & Backend Engineer",
-  specialization: "n8n Workflow Architecture",
-  experience: [
-    "Complex webhook-based automations",
-    "CRM & WhatsApp flows",
-    "AI-powered routing & classification",
-    "Backend + Web3 integrations"
-  ],
-  idealClients: [
-    "Agencies",
-    "Service businesses",
-    "Founders who hate manual ops"
-  ],
-  mindset: "If it's repetitive, automate it."
-};
+
+## ⚡ Who Am I
+
+```bash
+> role        : Automation & Backend Engineer
+> focus       : n8n Workflow Architecture
+> builds      :
+  - Webhook-driven automations
+  - CRM & WhatsApp pipelines
+  - AI routing & classification
+  - Backend + Web3 integrations
+> clients     :
+  - Agencies
+  - Service businesses
+  - Founders scaling operations
+> rule        : If it's repetitive — automate it.
+
 
 
 🎯 What I deliver:
