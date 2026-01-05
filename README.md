@@ -33,7 +33,7 @@ const malik = {
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 🐍 Contribution Activity
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malik434&theme=react-dark&hide_border=true" /> </p>
 
 🔗 Let’s Work
 <p align="left"> <a href="https://www.linkedin.com/in/malikhuzaifa434/"> <img src="https://img.shields.io/badge/LinkedIn-Malik-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
